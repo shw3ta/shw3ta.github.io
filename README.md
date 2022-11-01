@@ -1,1 +1,2 @@
-Personal page.  Uses [this](https://keunhong.github.io) as template. 
+This is an attempt to make a deep map of a popular piece of internet creepypasta. Check out the site to learn more about the story itself!
+This page uses the [Tufte-CSS template](https://edwardtufte.github.io/tufte-css/). All credits to its creators.
